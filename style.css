@@ -1,0 +1,29 @@
+body {
+    font-family: sans-serif;
+
+
+}
+nav {
+margin: 60px;
+font-size: 20px;
+border: 2px solid black;
+}
+nav a {
+margin: 60px; 
+front-size:20px
+text-decoration:none;
+color:rgb(90,90,90);
+}
+h1 {
+color: darkblue;
+front-size:20px;
+}
+.zxc{
+border: 0px solid green;
+border-radius:10px ;
+color: black;
+}
+
+
+
+
